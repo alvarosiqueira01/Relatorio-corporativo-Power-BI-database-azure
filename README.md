@@ -1,7 +1,7 @@
 # Relatorio-corporativo-Power-BI-database-azure
 Desafio de projeto "Criando um Dashboard corporativo com integração com MySQL e Azure" do curso "Processamento de dados com Power BI" da DIO.
 
-Relatório criado a partir de banco de dados SQL remotamente hospedado na Azure, cuja criação se deu segundo os documento .sql aí colocados. Tais documentos foram fornecidos em: https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%203/Desafio%20de%20Projeto.
+Relatório criado a partir de banco de dados SQL remotamente hospedado na Azure, cuja criação se deu segundo os documentos .sql aí colocados. Tais documentos foram fornecidos em: https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%203/Desafio%20de%20Projeto.
 
 Criado o banco de dados, foi feita a transformação dos dados com o Power Query, seguindo o passo a passo do desafio:
 
